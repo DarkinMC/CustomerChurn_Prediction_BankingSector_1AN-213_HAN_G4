@@ -9,3 +9,4 @@
 ### Objetivo: 
  Desarrollar un modelo de análisis de clientes bancarios para identificar patrones de abandono utilizando herramientas de Analítica de Negocios.
  Se aplicarán modelos de aprendizaje automático para predecir la probabilidad de que un cliente deje de usar los servicios del banco.
+Prueba José
