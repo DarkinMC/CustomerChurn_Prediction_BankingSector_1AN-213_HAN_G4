@@ -7,6 +7,5 @@
 #### URENA, JUSTIN
 #### Lara, Jose
 ### Objetivo: 
-Aplicar técnicas de minería de datos y aprendizaje automático para detectar transacciones 
-fraudulentas en tarjetas de crédito, identificando patrones que permitan reducir pérdidas en el 
-sector financiero.
+ Desarrollar un modelo de análisis de clientes bancarios para identificar patrones de abandono utilizando herramientas de Analítica de Negocios.
+ Se aplicarán modelos de aprendizaje automático para predecir la probabilidad de que un cliente deje de usar los servicios del banco.
